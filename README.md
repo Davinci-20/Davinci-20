@@ -1,5 +1,4 @@
--  Hi, I’m @Davinci-20. I’m interested in Web Development.I’m currently learning JavaScript and SQL
-.I’m looking to collaborate on GitHub. You can contact to this Gmail.
+ Hello everyone, I’m - <b><h1>Davinci-20</h1></b> <p><blockquote>I’m interested in <b>Web Development</b> and <b>Web Design</b>.I’m learning <b>Html,Css,JavaScript,PHP,MySQL Database,Wordpress,Bootstrap and JQuery.</b></blockquote></p>
 
 <!---
 Davinci-20/Davinci-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
