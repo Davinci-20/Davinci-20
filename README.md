@@ -1,12 +1,12 @@
 ![alt text](https://github.com/Davinci-20/Davinci-20/blob/main/learn-web-development.jpg)
 <h1 align="center">Hi, I'm Kaung Set Hein</h1>
-<!-- <h3 align="center">Full-Stack Developer from Myanmar!.</h3> -->
+<h3 align="center">WEB Developer</h3>
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://portfolio502779307.wordpress.com/](https://portfolio502779307.wordpress.com/)
+- 👨‍💻My Portfolio  [https://portfolio502779307.wordpress.com/](https://portfolio502779307.wordpress.com/)
 
-- 📫 How to reach me **2021educationacc@gmail.com**
+- 📫 You can reach me **2021educationacc@gmail.com**
 
 - ⚡ Fun fact **Happiness are Gold!**
 
