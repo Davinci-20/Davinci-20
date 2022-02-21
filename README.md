@@ -8,7 +8,7 @@
 
 - 📫 You can reach me **2021educationacc@gmail.com**
 
-- ⚡ Fun fact **Happiness are Gold!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
