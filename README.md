@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻My Portfolio  [https://portfolio502779307.wordpress.com/](https://portfolio502779307.wordpress.com/)
-
 - 📫 You can reach me **2021educationacc@gmail.com**
 
 
