@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Kaung Set Hein</h1>
 <h3 align="center">WEB Developer</h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel API**
 
 - 📫 You can reach me **kaungsethein91@gmail.com**
 
